@@ -1,11 +1,12 @@
 # tabular-minimization
-- Script to minimize a group of SSI components using tabular method and prime implicant table.
 
-- used language:
+Script to minimize a group of SSI components using tabular method and prime implicant table.
+
+used language:
 
 + python 3.85.
 
-- used libraries:
+used libraries:
 
 + pandas.
 + itertools.
