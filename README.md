@@ -1,5 +1,4 @@
 # tabular-minimization
-
 Script to minimize a group of SSI components using tabular method and prime implicant table.
 
 used language:
