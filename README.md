@@ -3,13 +3,13 @@
 
 -used language:
 
-+python 3.85.
++ python 3.85.
 
 -used libraries:
 
-+pandas.
-+itertools.
-+tabulate
++ pandas.
++ itertools.
++ tabulate
 
  ---------< Briefly description for program steps >------------
 
