@@ -1,17 +1,16 @@
 # tabular-minimization
 Script to minimize a group of SSI components using tabular method and prime implicant table.
 
-used language:
+## used language:
 
 + python 3.85.
 
-used libraries:
+## used libraries:
 
 + pandas.
 + itertools.
 + tabulate
-
- ---------< Briefly description for program steps >------------
+## Briefly description for program steps
 
 1. Preparing the minterms to do the tabular method minimization on it.
 
@@ -22,6 +21,6 @@ used libraries:
 4. Get the minimal prime implicants and print it after converting it to
 letters by:
 
-A. Check for E.P.I and collect them.
++ Check for E.P.I and collect them.
 
-B. Apply Petrick’s method if E.P.I is not found.
++ Apply Petrick’s method if E.P.I is not found.
